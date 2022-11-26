@@ -1,0 +1,15 @@
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\DataAccess.deps.json
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\DataAccess.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\Core.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\Entities.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\Core.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\bin\Release\netstandard2.0\Entities.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\DataAccess\obj\Release\netstandard2.0\DataAccess.pdb

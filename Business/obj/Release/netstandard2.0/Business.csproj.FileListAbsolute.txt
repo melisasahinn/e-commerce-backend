@@ -1,0 +1,17 @@
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Business.deps.json
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Business.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Business.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Core.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\DataAccess.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Entities.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Core.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\DataAccess.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\bin\Release\netstandard2.0\Entities.pdb
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.csproj.AssemblyReference.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.dll
+C:\Users\mmeli\OneDrive\Masaüstü\yıldızfurniture\Business\obj\Release\netstandard2.0\Business.pdb
